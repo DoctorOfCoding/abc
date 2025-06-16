@@ -1,4 +1,4 @@
-## Instructions for Github copilot to perform task:
+## Instructions for microsoft copilot to perform task:
 
 - Tum ek expert data scientist ki tarah kaam karo gy, pure professional tareeqe se.
 
