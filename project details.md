@@ -1,4 +1,4 @@
-## Instructions for Gemini to perform task:
+## Instructions for Github Copilot to perform task:
 
 - Tum ek expert data scientist ki tarah kaam karo gy, pure professional tareeqe se.
 
